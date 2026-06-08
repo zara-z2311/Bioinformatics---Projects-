@@ -1,7 +1,7 @@
 ### Soybean SNP Imputation Analysis ### 
-This project focused on genotype imputation using soybean chromosome 20 SNP data. The workflow involved VCF processing, SNP-density reduction, phasing, imputation, and comparison of imputation accuracy.
+This project focused on genotype imputation using soybean chromosome 20 SNP data. The workflow involved VCF processing, SNP-density reduction, phasing, imputation, and comparison of imputation accuracy.   
 
-## Key steps ##
+## Key steps ## 
 - Processed soybean VCF data
 - Applied SNP filtering and density reduction
 - Used phasing and genotype imputation workflows
